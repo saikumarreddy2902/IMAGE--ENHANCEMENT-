@@ -56,7 +56,7 @@ HPC_PROJECT/
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/2303a52223/HPC_PROJECT.git
+git clone https://github.com/saikumarreddy2902/IMAGE--ENHANCEMENT-
 cd HPC_PROJECT
 ```
 
